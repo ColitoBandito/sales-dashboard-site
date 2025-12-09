@@ -6,12 +6,12 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
     <nav>
       <RouterLink to="/">Home</RouterLink>
-      <RouterLink to="/about">About/GitHub</RouterLink>
+      <RouterLink to="/about">About/Files</RouterLink>
       
-      <a href="https://www.youtube.com/" target="_blank">Video Presentation 📺</a>
+      <a href="https://www.youtube.com/watch?v=UcK20yYxFiE&t=0s" target="_blank">Video Presentation 📺</a>
 
-      <a href="https://app.powerbi.com/" target="_blank" class="cta-button">
-        Launch App ↗
+      <a href="/SP-115-Red-SalesDB-FinalReport-1.pdf" target="_blank" class="cta-button">
+        Report PDF ↗
       </a>
     </nav>
   </header>

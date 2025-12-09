@@ -23,7 +23,7 @@ const team = [
     
     <section class="hero">
       <div class="hero-content">
-        <h1>Sales Performance Dashboard</h1>
+        <h1>SP-115-Red-Sales Performance Dashboard</h1>
         <p class="subtitle">
           A strategic market analysis tool designed to benchmark performance, 
           identify stocking trends, and drive data-based business decisions.
@@ -176,7 +176,6 @@ h1 {
 /* TEAM SECTION */
 .team-section {
   text-align: center;
-  padding-top: 2rem;
   border-top: 1px solid #eee;
 }
 

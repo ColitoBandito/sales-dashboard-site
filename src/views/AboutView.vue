@@ -69,10 +69,10 @@
         </div>
 
         <div class="github-box">
-          <h3>📂 Source Code</h3>
-          <p>View the full project source code, including DAX measures and documentation.</p>
-          <a href="https://github.com/YOUR_USERNAME/YOUR_REPO" target="_blank" class="github-btn">
-            View on GitHub <span class="icon">➜</span>
+          <h3>📂 Project File</h3>
+          <p>View the full project source code, including DAX measures.</p>
+          <a href="/TestingPBI.pbix" download="TestingPBI.pbix" class="github-btn">
+            Download Dashboard File <span class="icon">↓</span>
           </a>
         </div>
 
